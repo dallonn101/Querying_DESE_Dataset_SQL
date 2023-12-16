@@ -4,7 +4,9 @@ You just landed a new job as a data analyst for the State of Massachusetts, work
 In a database called dese.db, answer questions about the state of education in Massachusetts.
 
 # Query
-In 1.sql Your colleague is preparing a map of all public schools in Massachusetts. In 1.sql, write a SQL query to find the names and cities of all public schools in Massachusetts.
+Your colleague is preparing a map of all public schools in Massachusetts.
+
+In 1.sql, write a SQL query to find the names and cities of all public schools in Massachusetts.
 
 In 2.sql your team is working on archiving old data. In 2.sql, write a SQL query to find the names of districts that are no longer operational. Districts that are no longer operational have “(non-op)” at the end of their name.
 
